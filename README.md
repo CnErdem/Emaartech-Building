@@ -4,4 +4,3 @@ In this project, I tried to make a clone web page for Emaartech Building web sit
 
 <h2> Screenshots  <h2>
 
-![Screenshot.png]
